@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="show-bytes.c">
+    <ClCompile Include="2.56.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

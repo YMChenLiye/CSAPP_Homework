@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="show-bytes.c">
+    <ClCompile Include="is_big_endian.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -34,7 +34,16 @@ void show_pointer(void *x)
 
 int main()
 {
-	int x = 10;
-	show_int(x);
+	int a = 10;
+	float b = 11.5;
+	double c = 13.33;
+	void *d = &a;
+	show_int(a);
+	printf("\n");
+	show_float(b);
+	printf("\n");
+	show_double(c);
+	printf("\n");
+	show_pointer(d);
 	getchar();
 }
