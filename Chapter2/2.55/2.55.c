@@ -38,5 +38,3 @@ int main()
 	show_int(x);
 	getchar();
 }
-
-
