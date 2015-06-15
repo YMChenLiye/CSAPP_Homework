@@ -70,7 +70,7 @@ int switch_prob(int x, int n)
 	case 1:
 	default:
 		result += 10;
-		/* Fill in code here */
+		break;
 	}
 
 	return result;
