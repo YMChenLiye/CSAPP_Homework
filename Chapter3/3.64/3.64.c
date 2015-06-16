@@ -74,5 +74,8 @@ of these ﬁelds gets used.
 						&s2,x,&y,s2.sum,s2.diff
 C. How would you describe the general strategy for passing structures as argu-
 ments to a function?
+By passing the structure directly in the stack as the common arguments.
 D. How would you describe the general strategy for handling a structure as a
-return value from a function?*/
+return value from a function?
+By passing the structure's address.
+*/
