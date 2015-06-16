@@ -1,0 +1,14 @@
+﻿Build started 2015/6/16 10:07:05.
+     1>Project "C:\Users\liye\Documents\GitHub\CSAPP_Homework\Chapter3\3.61\3.61.vcxproj" on node 5 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 3.61.c
+         3.61.c
+     1>c:\users\liye\documents\github\csapp_homework\chapter3\3.61\3.61.c(14): error C2057: expected constant expression
+     1>c:\users\liye\documents\github\csapp_homework\chapter3\3.61\3.61.c(14): error C2466: cannot allocate an array of constant size 0
+     1>c:\users\liye\documents\github\csapp_homework\chapter3\3.61\3.61.c(14): error C2087: 'A' : missing subscript
+     1>c:\users\liye\documents\github\csapp_homework\chapter3\3.61\3.61.c(14): error C2087: 'B' : missing subscript
+     1>Done Building Project "C:\Users\liye\Documents\GitHub\CSAPP_Homework\Chapter3\3.61\3.61.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.28
