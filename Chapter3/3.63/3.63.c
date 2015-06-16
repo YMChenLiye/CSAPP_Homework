@@ -39,8 +39,8 @@ n at %ebp+8, A at %ebp+12, j at %ebp+16
 
 Use your reverse engineering skills to determine the deﬁnitions of E1 and E2.*/
 
-#define E1 2*n+2
-#define E2 3*n
+#define E1 1//2*n+2
+#define E2 1//3*n
 int sum_col(int n, int A[E1][E2], int j) {
 	int i;
 	int result = 0;
